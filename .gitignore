@@ -1,0 +1,15 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+workoutapi/
+alembic/versions/*
+!alembic/versions/.gitkeep
+*.sqlite3
+.DS_Store
+.env
